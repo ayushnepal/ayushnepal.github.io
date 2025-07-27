@@ -57,33 +57,26 @@ education:
     date_start: 2017-10-01
     date_end: 2019-04-30
     summary: |
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+      Thesis: Modelling and simulation of spacecraft hardware based on machine learning techniques
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BE Electrical Engineering and Information Technology
+    institution: University of Applied Sciences Ravensburg-Weingarten, Germany
+    date_start: 2010-03-01
+    date_end: 2014-08-31
+    summary: |
+      Thesis: Wireless 868MHz band communication board for autonomous machines using lowpower 32-bit microcontroller
+
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Senior Software Engineer Full-Stack
+    company_name: IAV GmbH
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2023-06-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Middleware Software Development for a Radio-Tuner in C++
+      - Responsible for the development of station linking and listing features
+
   - position: Backend Software Engineer
     company_name: X
     company_url: ''
