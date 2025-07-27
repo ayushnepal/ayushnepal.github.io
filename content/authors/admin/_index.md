@@ -58,7 +58,7 @@ education:
     date_end: 2019-04-30
     summary: |
       Thesis: Modelling and simulation of spacecraft hardware based on machine learning techniques
-      
+
   - area: BE Electrical Engineering and Information Technology
     institution: University of Applied Sciences Ravensburg-Weingarten, Germany
     date_start: 2010-03-01
@@ -165,4 +165,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Software and Tech enthusiast with a passion for problem-solving
