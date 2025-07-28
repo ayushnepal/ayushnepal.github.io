@@ -1,10 +1,11 @@
 ---
-title: 'An example conference paper'
+title: 'Tasking Modeling Language: A toolset for model-based engineering of data-driven software systems'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Tobias Franz
   - admin
   - Robert Ford
 
@@ -13,11 +14,11 @@ author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2021-06-14T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2021-06-14T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -25,16 +26,18 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: In *OBDP2021 - 2nd European Workshop on On-Board Data Processing (2)*
+publication_short: In *OBDP2021 (2)*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The interdisciplinary process of space systems engineering poses challenges for the development of the on-board software. The software integrates components from different domains and organizations and has to fulfill requirements, such as robustness, reliability, and real-time capability. Model-based methods not only help to give a comprehensive overview, but also improve productivity by allowing artifacts to be generated from the model automatically. However, general-purpose modeling languages, such as the Systems Modeling Language (SysML), are not always adequate because of their ambiguity resulting from their generic nature. Furthermore, sensor data handling, analysis, and processing of data in on-board software requires focus on the systems data flow and event mechanism. To achieve this, we developed the Tasking Modeling Language (TML) which allows system engineers to model complex event-driven software systems in a simplified way and to generate software from the model. Type and consistency checks on the formal level help to reduce errors early in the engineering process. TML is focused on data-driven systems and its models are designed to be extended and customized to specific mission requirements. This paper describes the architecture of TML in detail, explains the base technology, the methodology, and the developed domain specific languages (DSLs). It evaluates the design approach of the software via a case study and presents advantages as well as challenges faced.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Write summary of TML here...
 
 tags:
-  - Large Language Models
+  - Model-based Systems Engineering
+  - Data-driven Software System
+  - Onboard Data-processing
 
 # Display this page in the Featured widget?
 featured: true
@@ -44,19 +47,19 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: 'https://elib.dlr.de/145077/1/11.01_OBDP2021_Franz-1.pdf'
+url_code: 'https://github.com/virtualsatellite/VirtualSatellite4-TML'
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ''
   preview_only: false
 
@@ -77,11 +80,11 @@ slides: example
 ---
 
 {{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+Click the _Cite_ button to download citation.
 {{% /callout %}}
 
 {{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
+Click the _Slides_ button to download the paper.
 {{% /callout %}}
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
