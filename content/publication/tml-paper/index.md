@@ -84,7 +84,6 @@ projects: []
 slides: ""
 ---
 
-<!--
 {{% callout note %}}
 Click the _Cite_ button to download citation.
 {{% /callout %}}
@@ -94,4 +93,4 @@ Click the _Slides_ button to download the paper.
 {{% /callout %}}
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
--->
+
