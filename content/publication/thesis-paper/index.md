@@ -34,7 +34,7 @@ publication_short: In *ASCEND 2020*
 abstract: Space systems are complex and consist of multiple subsystems. Research and development teams of such complex systems are usually distributed among various institutions and space agencies. This affects the quality of the On-board Software (OBSW) since testing it without having all required subsystems at the software development site can be troublesome. In this paper, we present a data-driven method which can be used to synthesize parts of a system or even an entire system as a black-box model. We exploit the data collected from the real hardware to derive a model using a Machine Learning (ML) algorithm. The proposed model can easily be distributed among development teams and is dedicated to emulate the system for testing the OBSW.
 
 # Summary. An optional shortened abstract.
-summary: Modeling and simulating hardware facilitates seamless integration of the model into continuous integration (CI) pipelines, enabling rigorous testing of onboard software throughout the development lifecycle. This approach eliminates the necessity for expensive physical hardware in the loop, thereby enhancing efficiency and reducing development time. In this paper, we investigate the capabilities and limitations of recurrent neural networks in accurately modeling physical hardware systems using a purely data-driven approach.
+summary: Modeling and simulating hardware facilitates seamless integration of the model into CI pipelines, enabling rigorous testing of onboard software without expensive physical hardware in the loop, thereby enhancing efficiency and reducing development time. 
 
 tags:
   - Modeling and Simulation
