@@ -7,7 +7,7 @@ title: 'Modeling and Simulation of a Spacecraft Payload Hardware Using Machine L
 authors:
   - admin
   - Arnau Prat
-  - Kilian Johann Höflinger
+  - Kilian Johann Hoeflinger
   - Andreas Gerndt
   - Daniel Luedtke
 
