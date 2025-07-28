@@ -39,10 +39,7 @@ summary: TML allows system engineers to model complex event/data-driven software
 
 tags:
   - Model-based Systems Engineering
-  - Model-driven Development
-  - Code Generation
-  - Event-driven System
-  - Data-driven System
+  - Data-driven Software System
   - Onboard Data-processing
 
 # Display this page in the Featured widget?
