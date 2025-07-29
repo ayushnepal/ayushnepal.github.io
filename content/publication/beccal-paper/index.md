@@ -9,7 +9,7 @@ authors:
   - Jan Sommer
   - admin
   - Tobias Franz
-  - Hauke Muntinga
+  - Hauke Muentinga
   - Andreas Gerndt
   - Daniel Luedtke
 
@@ -91,3 +91,4 @@ Click the _Cite_ button to download citation.
 Click the _Slides_ button to download the paper.
 {{% /callout %}}
 -->
+
