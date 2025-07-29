@@ -42,7 +42,7 @@ footer:
   copyright:
     notice: '© {year} Me'
     license:
-      enable: false
+      enable: true
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
