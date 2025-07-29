@@ -18,11 +18,11 @@ author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: 'March 3, 2021'
+date: '2021-03-06T00:00:00Z'
 doi: '10.1109/AERO50100.2021.9438129'
 
-# Publish date
-publishDate: 'June 6, 2021'
+# Schedule page publish date (NOT publication's date).
+publishDate: '2021-06-07T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
